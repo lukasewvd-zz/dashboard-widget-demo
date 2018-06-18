@@ -1,0 +1,22 @@
+{
+    "name": "User Info",
+    "description": "Widget for getting user info.",
+    "version": "0.0.1",
+    "appType": "DASHBOARD_WIDGET",
+    "launch_path": "./index.html",
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "*"
+        }
+    },
+    "developer": {
+        "name": "Lukas Wijgaart van Dijk",
+        "email": "lukas@abaris.no",
+        "url": "https://www.abaris.no",
+        "company": "Abaris"
+    },
+    "icons": {
+        "48": "./demoicon.png"
+    }
+}
